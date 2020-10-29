@@ -2,7 +2,7 @@
 
 import requests
 
-author = 'Sajed'
+author = 'novastosha'
 
 def main():
     print("Hypixel API by: "+author)
